@@ -4,7 +4,7 @@
   "description": "The backend of the chat app.",
   "main": "index.js",
   "scripts": {
-    "start:dev": "nodemon index.js"
+    "dev": "nodemon index.js"
   },
   "author": "Aazib Chaudhry",
   "license": "ISC",
